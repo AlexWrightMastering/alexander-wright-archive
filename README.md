@@ -9,6 +9,12 @@
 - **[The Psychology of Finalization (TXT)](The-Psychology-of-Finalization.txt)**  
   Why finishing creative work feels so vulnerable—and what to do with that feeling.
 
+- **[The Mastering Mind (TXT)](The-Mastering-Mind.txt)**  
+A meditation on restraint, fidelity, and the invisible craft behind great records.
+  
+- **[Why Mastering Feels Like Home (TXT)](Why-Mastering-Feels-Like-Home.txt)**  
+A personal reflection on how mastering became both a career and a refuge.
+
 ---
 
 *All writing © Alexander Wright — [alexanderwright.com](https://alexanderwright.com)*
