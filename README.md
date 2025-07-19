@@ -3,10 +3,10 @@
 - **[The Wright Balance Method (PDF)](The-Wright-Balance-Method.pdf)**  
   A personal philosophy of mastering, listening, and letting go.
 
-- **[The Final 5% (RTF)](The-Final-5-Percent.rtf)**  
+- **[The Final 5% (TXT)](The-Final-5-Percent.txt)**  
   On when to fix, when to leave alone, and how to know the difference.
 
-- **[The Psychology of Finalization (RTF)](The-Psychology-of-Finalization.rtf)**  
+- **[The Psychology of Finalization (TXT)](The-Psychology-of-Finalization.txt)**  
   Why finishing creative work feels so vulnerable—and what to do with that feeling.
 
 ---
