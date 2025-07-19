@@ -20,6 +20,10 @@ A collection of original poems written over the span of 10 years, from age 16 to
 
 ---
 
+This archive is also preserved at the [[Internet Archive](https://archive.org/details/alexander-wright-archive)].
+
+---
+
 *All writing © Alexander Wright — [alexanderwright.com](https://alexanderwright.com)*
 
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
