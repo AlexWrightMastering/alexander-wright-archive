@@ -1,0 +1,100 @@
+	1.	War & Peace by Leo Tolstoy
+	2.	Anna Karenina by Leo Tolstoy
+	3.	Crime & Punishment by Fyodor Dostoevsky
+	4.	The Brothers Karamazov by Fyodor Dostoevsky
+	5.	A Tale of Two Cities by Charles Dickens
+	6.	David Copperfield by Charles Dickens
+	7.	Hamlet by William Shakespeare
+	8.	Macbeth by William Shakespeare
+	9.	Ulysses by James Joyce
+	10.	A Portrait of the Artist as a Young Man by James Joyce
+	11.	Madame Bovary by Gustave Flaubert
+	12.	In Search of Lost Time by Marcel Proust
+	13.	The Sorrows of Young Werther by Johann Wolfgang von Goethe
+	14.	À rebours by Joris-Karl Huysmans
+	15.	Jane Eyre by Charlotte Brontë
+	16.	Wuthering Heights by Emily Brontë
+	17.	Pride & Prejudice by Jane Austen
+	18.	To the Lighthouse by Virginia Woolf
+	19.	Middlemarch by George Eliot
+	20.	Robinson Crusoe by Daniel Defoe
+	21.	Gulliver's Travels by Jonathan Swift
+	22.	Don Quixote by Miguel de Cervantes
+	23.	The Iliad & The Odyssey by Homer
+	24.	The Canterbury Tales by Geoffrey Chaucer
+	25.	The Bible
+	26.	The Divine Comedy by Dante Alighieri
+	27.	Paradise Lost by John Milton
+	28.	Faust by Johann Wolfgang von Goethe 
+	29.	Phaedo by Plato
+	30.	Candide, or, Optimism by Voltaire
+	31.	Thus Spoke Zarathustra by Friedrich Nietzsche
+	32.	The Metamorphosis by Franz Kafka
+	33.	The Stranger by Albert Camus
+	34.	Collected Stories by Anton Chekhov
+	35.	The Great Gatsby by F. Scott Fitzgerald
+	36.	The Catcher in the Rye by J.D. Salinger
+	37.	Lolita by Vladimir Nabokov
+	38.	On the Road by Jack Kerouac
+	39.	Moby-Dick; or, The Whale by Herman Melville
+	40.	The Adventures of Huckleberry Finn by Mark Twain
+	41.	To Kill a Mockingbird by Harper Lee
+	42.	East of Eden by John Steinbeck
+	43.	The Sound & the Fury by William Faulkner
+	44.	For Whom the Bell Tolls by Ernest Hemingway
+	45.	All Quiet on the Western Front by Erich Maria Remarque
+	46.	Catch-22 by Joseph Heller
+	47.	Heart of Darkness by Joseph Conrad
+	48.	Brave New World by Aldous Huxley
+	49.	1984 by George Orwell
+	50.	One Hundred Years of Solitude by Gabriel García Márquez
+	51.	Aeneid by Virgil
+	52.	Njáls Saga
+	53.	The Prince by Niccolò Machiavelli
+	54.	Things Fall Apart by Chinua Achebe
+	55.	The Basic Works of Aristotle (Modern Library Classics)
+	56.	Journey to the End of the Night by Louis-Ferdinand Céline
+	57.	The Golden Ass by Apuleius
+	58.	Leviathan by Thomas Hobbes
+	59.	The Buddhist Scriptures
+	60.	Childe Harold’s Pilgrimage by Lord Byron
+	61.	The Communist Manifesto by Karl Marx
+	62.	The Sound of the Mountain by Yasunari Kawabata
+	63.	Hunger by Knut Hamson
+	64.	Medea by Euripides
+	65.	The Epic of Gilgamesh
+	66.	Tess of the d'Urbervilles by Thomas Hardy
+	67.	Waiting for Godot by Samuel Beckett
+	68.	The Analects by Confucius
+	69.	On The Nature of Things by Lucretius
+	70.	Walden by Henry David Thoreau
+	71.	The Republic by Plato
+	72.	One Thousand & One Arabian Nights
+	73.	The Fall of the Roman Empire by Plutarch
+	74.	Democracy in America by Alexis de Tocqueville
+	75.	Sentimental Education by Gustave Flaubert
+	76.	Essays by Michel de Montaigne
+	77.	The Fables by Aesop
+	78.	The Decameron by Giovanni Boccaccio
+	79.	The Histories by Herodotus
+	80.	Dead Souls by Nikolai Gogol
+	81.	Beowulf
+	82.	The Origin of Species by Charles Darwin
+	83.	Ficciones by Jorge Luis Borges
+	84.	The Hindu Scriptures
+	85.	Great Expectations by Charles Dickens
+	86.	Parallel Lives by Plutarch
+	87.	Meditations by Marcus Aurelius
+	88.	The Art of War by Sun Tzu
+	89.	The Theban Plays by Sophocles
+	90.	The Picture of Dorian Gray by Oscar Wilde
+	91.	The Wealth of Nations by Adam Smith
+	92.	Tao Te Ching by Lao Tzu
+	93.	Prometheus Bound by Aeschylus
+	94.	Argonautica by Apollonius Rhodius
+	95.	The Prelude by William Wordsworth
+	96.	Bleak House by Charles Dickens
+	97.	The Koran (Hilali-Khan Translation)
+	98.	Metamorphoses by Ovid
+	99.	Animal Farm by George Orwell
+	100.	Infinite Jest by David Foster Wallace
