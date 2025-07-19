@@ -15,6 +15,9 @@ A meditation on restraint, fidelity, and the invisible craft behind great record
 - **[Why Mastering Feels Like Home (TXT)](Why-Mastering-Feels-Like-Home.txt)**  
 A personal reflection on how mastering became both a career and a refuge.
 
+- **[Opening (PDF)](Opening-final-042919.pdf)**  
+A collection of original poems written over the span of 10 years, from age 16 to 26.
+
 ---
 
 *All writing © Alexander Wright — [alexanderwright.com](https://alexanderwright.com)*
